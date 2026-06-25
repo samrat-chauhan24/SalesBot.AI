@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+serviceAccountKey.json
+google-services.json
+
+# OS / editor
+.DS_Store
+.vscode/
+
+aditya_android/

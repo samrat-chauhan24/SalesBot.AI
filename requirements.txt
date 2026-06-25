@@ -1,0 +1,1 @@
+pip install fastapi uvicorn firebase-admin python-dotenv langchain langgraph langchain-core langchain-community langchain-groq requests httpx pydantic typing-extensions pytz
